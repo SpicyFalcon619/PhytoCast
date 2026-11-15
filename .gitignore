@@ -1,0 +1,14 @@
+# local WiFi and dashboard address
+firmware/**/secrets.h
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# editors and OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
